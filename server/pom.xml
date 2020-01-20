@@ -13,4 +13,9 @@
         <version>1.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
+
+    <modules>
+        <module>kotlin-springboot</module>
+        <module>kotlin-springboot-modelMutable</module>
+    </modules>
 </project>
